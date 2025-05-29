@@ -16,7 +16,7 @@ This project is part of a Kaggle Gen AI intensive training sponsored by Google. 
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/tatendaty/gen-ai-kaggle-google.git
+git clone git@github.com:TatendaTy/Gen_AI_Training.git
 cd gen-ai-kaggle-google
 ```
 
